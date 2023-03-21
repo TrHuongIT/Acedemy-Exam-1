@@ -1,0 +1,8 @@
+D:\Users\Smile\source\repos\Exam_01\obj\Debug\Exam_01.csproj.AssemblyReference.cache
+D:\Users\Smile\source\repos\Exam_01\obj\Debug\Exam_01.csproj.SuggestedBindingRedirects.cache
+D:\Users\Smile\source\repos\Exam_01\obj\Debug\Exam_01.csproj.CoreCompileInputs.cache
+D:\Users\Smile\source\repos\Exam_01\bin\Debug\Exam_01.exe.config
+D:\Users\Smile\source\repos\Exam_01\bin\Debug\Exam_01.exe
+D:\Users\Smile\source\repos\Exam_01\bin\Debug\Exam_01.pdb
+D:\Users\Smile\source\repos\Exam_01\obj\Debug\Exam_01.exe
+D:\Users\Smile\source\repos\Exam_01\obj\Debug\Exam_01.pdb
