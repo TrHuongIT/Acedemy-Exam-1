@@ -1,0 +1,12 @@
+Tạo class student có các property sau: (2p)
+Id, Name, Gender, Age, Date of birth, Class, Mark1, Mark 2, Mark 3 và 1
+method: mark_AVG(): trả về mark trung bình của student. (2p)
+Tạo class TestStudent thực hiện các nhiệm vụ sau:
+- tạo method để nhập thông tin của 1 student (2p)
+- Tạo method để tìm kiếm 1 student bằng name. (2p)
+- Tạo method để chỉnh sửa thông tin của student. (2p)
+- Tạo method để xoá student bằng id. (2p)
+- Tạo method để sắp xếp các student theo thứ tự tăng dần của mark trung bình. (2p)
+Khi chạy chương trình, người dùng có thể chọn chức năng như hình dưới: (2p)
+
+Total: 16p
